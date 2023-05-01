@@ -1,0 +1,30 @@
+.education-container {
+    padding: 5rem 0;
+    text-align: center;
+  }
+  
+  .education-section {
+    background-color: #fff;
+    border-radius: 0.5rem;
+    padding: 2rem;
+    box-shadow: 0 0 1rem rgba(0, 0, 0, 0.2);
+    max-width: 25rem;
+    margin: 3rem auto;
+    text-align: left;
+    transition: transform 0.3s ease;
+  }
+  
+  .education-section:hover {
+    transform: translateY(-0.5rem);
+  }
+  
+  .education-section h2 {
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+  }
+  
+  .education-section p {
+    font-size: 1.2rem;
+    margin-bottom: 1rem;
+  }
+  
